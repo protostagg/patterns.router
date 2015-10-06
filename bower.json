@@ -1,0 +1,19 @@
+{
+  "name": "patterns.router",
+  "version": "0.0.1",
+  "homepage": "https://github.com/protostagg/patterns.router",
+  "authors": [
+    "Jarrod Holder <jarrod.holder@dtn.com>"
+  ],
+  "description": "AngularJS provider that consumes registered patterns then injects them to ui.router to create hierachtical routes",
+  "main": "patterns.provider.js",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
